@@ -23,13 +23,8 @@ If you'd like to explore my homelab projects or learn more about the services ho
 
 ## Contact
 
-If you have any questions or would like to get in touch, you can reach me at [your@email.com](mailto:hello@rolindroy.com).
+If you have any questions or would like to get in touch, you can reach me at [hello@rolindroy.com](mailto:hello@rolindroy.com).
 
 ---
 
 Thank you for visiting **reylabs.dev** and exploring my homelab environment!
-
-
-
-
-
