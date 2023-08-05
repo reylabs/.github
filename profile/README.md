@@ -2,7 +2,7 @@
 
 # Welcome to reylabs.dev Homelab
 
-<img src="https://r2.reylabs.dev/reylabs2/logo.png" width="70">
+<img src="https://r2.reylabs.dev/reylabs2/logo.png" width="250">
 
 Welcome to my homelab setup hosted at [reylabs.dev](https://reylabs.dev). This repository serves as a hub for information about the services, projects, and technologies that make up my personal homelab environment.
 
