@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# Welcome to reylabs.dev Homelab
+# Welcome to reylabs.dev
 
 <img src="https://r2.reylabs.dev/reylabs2/logo.png" width="250">
 
